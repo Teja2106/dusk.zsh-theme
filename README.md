@@ -1,4 +1,5 @@
 # Dusk &mdash; Minimal & Customizable Zsh Theme
+![GitHub License](https://img.shields.io/github/license/Teja2106/dusk.zsh-theme?style=flat-square)
 
 ![Screenshot](https://i.postimg.cc/SNHqZf9R/Terminal.png)
 
